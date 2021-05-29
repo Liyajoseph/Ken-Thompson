@@ -8,14 +8,6 @@
   padding: 20px;
 }
 
-.img1 {
-  border-style: inset;
-  border-left: 4px solid rgb(185, 245, 216);
-  border-right: 4px solid rgb(185, 245, 216);
-  border-top: 4px solid rgb(185, 245, 216);
-  border-bottom: 4px solid rgb(185, 245, 216);
-}
-
 .body1 {
   background-color: rgb(80, 175, 133);
   color: #1d1e18;
@@ -30,7 +22,7 @@
   margin-left: auto;
   margin-right: auto;
   width: 20%;
-  border-radius: 50%
+  border-radius: 50%;
 }
 
 .quote1 {
@@ -49,16 +41,9 @@
 
 .div1 {
   border: 4px inset rgb(29, 30, 24);
-  background-color: rgb(185, 245, 216); 
-  text-align: center;
-}
+  background-color: rgb(185, 245, 216);
 
-.img2 {
-  border-style: inset;
-  border-left: 4px solid rgb(185, 245, 216);
-  border-right: 4px solid rgb(185, 245, 216);
-  border-top: 4px solid rgb(185, 245, 216);
-  border-bottom: 4px solid rgb(185, 245, 216);
+  text-align: center;
 }
 
 #img3 {
